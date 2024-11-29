@@ -36,8 +36,11 @@ Click here to view the dashboard online.
 
 **Repository Structure**
 data/: Contains sample dataset files 
+
 images/: Contains screenshots of key visuals from the dashboard.
+
 HealthcareProviderDashboard.pbix: The Power BI file for the project.
+
 README.md: Documentation for the project.
 
 **Dashboard Previews**
